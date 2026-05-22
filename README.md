@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 This project is a closed-loop thermal management system designed to monitor and regulate temperature in real-time. Utilizing an Arduino microcontroller, the system continuously compares ambient or surface temperature against a user-defined setpoint. When cooling (or heating) is required, the system drives a Peltier thermoelectric module via a MOSFET power distribution circuit. Once the target temperature is reached, the microcontroller signals the MOSFET to cut power, maintaining thermal stability and preventing overshooting.
 
-**🎥 [Link to Hardware Demonstration Video / GIF]** *(Insert your unlisted YouTube link or GIF link here)*
+**🎥 [Link to Hardware Demonstration Video / GIF] : https://youtu.be/-5AKqzHRqF8 
 
 ## 🛠️ Hardware Components
 *   **Microcontroller:** Arduino (Uno/Nano)
